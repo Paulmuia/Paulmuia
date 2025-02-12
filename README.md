@@ -46,7 +46,13 @@ I’ve developed and deployed **online platforms and dynamic web systems**, focu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/Paulmuia/Paulmuia/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Paulmuia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
