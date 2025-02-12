@@ -1,5 +1,5 @@
-# 👋 **Hi, I'm Paul Muia!**  
-🎯 **Software Engineer**  
+<div align="center"><h1>👋 Hi, I'm Paul Muia</h1></div>  
+<h2>🎯 Software Engineer</h2> 
 
 Welcome to my GitHub! I’m a passionate software engineer specializing in **Android development, web development, and UI/UX design**. I thrive on building **seamless, user-friendly, and visually appealing digital experiences**.  
 
