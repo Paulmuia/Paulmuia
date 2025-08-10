@@ -1,4 +1,4 @@
-<div align="center"><h1>👋 Hi, I'm Paul Muia</h1></div>  
+<div align="center"><h1>👋 Hi, I'm Herman Homme</h1></div>  
 <h2>🎯 Software Engineer</h2> 
 
 Welcome to my GitHub! I’m a passionate software engineer specializing in **Android development, web development, and UI/UX design**. I thrive on building **seamless, user-friendly, and visually appealing digital experiences**.  
@@ -28,8 +28,8 @@ I’ve developed and deployed **online platforms and dynamic web systems**, focu
 
 ## 🚀 **Let’s Connect**  
 - 🌐 [**GitHub**](https://github.com/Paulmuia)  
-- 📫 **Email:** paulmuia7511@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/paul-muia-921b10241)  
+- 📫 **Email:** hermanhomme058@gmail.com 
+
 
 
 
