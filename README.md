@@ -30,6 +30,7 @@ I’ve developed and deployed **online platforms and dynamic web systems**, focu
 - 🌐 [**GitHub**](https://github.com/paulmuia)  
 - 📫 **Email:** paulmuia7511@gmail.com
 -  **LinkedIn** https://www.linkedin.com/in/paul-muia-921b10241
+-  **Portfolio** https://paul-portfolio-tkof.onrender.com
 
 
 
